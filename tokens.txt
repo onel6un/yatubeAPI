@@ -1,0 +1,23 @@
+user3 
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MTk2MDM3OSwianRpIjoiMmM5MGZjYzZjZDQ2NDk3NzliN2ZlYjJmNzc0ODJjMTciLCJ1c2VyX2lkIjozfQ.3oYSsqNl5mnubKbVwIxKaiOE6D5JHgPcAf6hgmKPTA8",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcxOTYwMzc5LCJqdGkiOiJiMmI2NTVjMDA2YWY0ZTc5YTk4YjhhYmFkY2RiNzBhOCIsInVzZXJfaWQiOjN9.1Z3LhdJu6G_AJc93G1ZSo61dK7sZCvmdl91NKqH58XY"
+}
+
+user2
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MTk2MDQ0MiwianRpIjoiZWRjMmMyM2FjZDgwNGM5MmI5MTVhZWFiOTcwZTY3MDIiLCJ1c2VyX2lkIjoyfQ.Le2m0NglXyGG4dyusdyfFZ9Dmu8Cm_sNjftsQWrjPlk",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcxOTYwNDQyLCJqdGkiOiI3NDI3OTFmNjk2NWI0ZTUzYjQ1YTIwMThiNmQ5YWY3ZCIsInVzZXJfaWQiOjJ9.2vMYW31pog-s5KabtgdFT4lzucbeEy19T_6Mm2w4p0Y"
+}
+
+user1
+{
+    "refresh": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY3MTk2MDQ2OSwianRpIjoiNGNiYmZhZDUyMzdkNDBhNThhNTMwZjU5ZGVhNTMxZDciLCJ1c2VyX2lkIjoxfQ.oQ1L2AVtQGDYzQHn5NZWaCjIam_qaspaySBUZDWBa58",
+    "access": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjcxOTYwNDY5LCJqdGkiOiIxYjdlMmQ0NWFlOWM0OTU2Yjg5OWU3MTE3M2U0ODU0YSIsInVzZXJfaWQiOjF9.oybRE4qrXE3PVMd2qDNbMX1KY69q9h4RBPTNRADdc9Y"
+}
+
+{
+    "title": "TestGroup",
+    "slug": "group",
+    "description": "descr"
+}
